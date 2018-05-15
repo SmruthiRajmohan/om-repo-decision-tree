@@ -21,7 +21,7 @@ The decision-making process involves a choice from a number of alternatives. Thi
 
 ## Architecture Diagram
 
-![Architecture](images/architecture.png)
+![Architecture](images/Architecture_Diagram.png)
 
 ## IBM Products
 
